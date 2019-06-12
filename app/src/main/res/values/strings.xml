@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Healthy Habit</string>
+    <string name="hint">Choose time to have your dinner</string>
+    <string name="submit">SUBMIT</string>
+</resources>
